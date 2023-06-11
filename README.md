@@ -8,7 +8,7 @@ A script for Windows to remove bloatware in ASUS ROG Phone 3.
 
 1. Enable **Developer Options** on your smartphone.
 2. Turn on **USB Debugging** from the developer panel.
-3. Install [Android Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip). **IMPORTANT**: [Add it to PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
+3. Install [Android Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip). **IMPORTANT**: [Add it to PATH](https://github.com/alexal1/Insomniac/wiki/Adding-platform-tools-to-the-PATH-environment-variable).
 5. Download the latest release [here](https://github.com/Houdeeny/rog-3-debloater/archive/refs/heads/main.zip). Unzip the file somewhere and run `rog-3-debloater.bat`.
 
 ## List of packages removed
