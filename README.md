@@ -80,7 +80,7 @@ A script for Windows to remove bloatware in ASUS ROG Phone 3.
 * com.google.android.tts
 * com.google.android.youtube - YouTube
   * **ALTERNATIVE**: [ReVanced](https://revanced.app/)
-  * **ALTERNATIVE**: Personal fork of [ReVanced Magisk Module](https://github.com/Houdeeny/revanced-magisk-module)
+  * **ALTERNATIVE**: [My own fork of ReVanced Magisk Module](https://github.com/Houdeeny/revanced-magisk-module)
 * com.google.ar.core
 * com.google.ar.lens
 * com.netflix.partner.activation
