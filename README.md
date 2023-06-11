@@ -1,6 +1,6 @@
 # ASUS ROG Phone 3 Debloater
 
-A personal script of mine to remove bloatware in ASUS ROG Phone 3.
+A script for Windows to remove bloatware in ASUS ROG Phone 3.
 
 **DISCLAIMER**: Use at your own risk. I am not responsible for anything that could happen to your phone.
 
