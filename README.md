@@ -18,7 +18,6 @@ A script for Windows to remove bloatware in ASUS ROG Phone 3.
 * com.android.bluetoothmidiservice
 * com.android.bookmarkprovider
 * com.android.calllogbackup
-* com.android.carrierconfig
 * com.android.carrierdefaultapp
 * com.android.chrome - Google Chrome
   * **ALTERNATIVE**: [Brave](https://brave.com/)
@@ -67,7 +66,6 @@ A script for Windows to remove bloatware in ASUS ROG Phone 3.
 * com.google.android.calendar
 * com.google.android.ext.shared
 * com.google.android.feedback
-* com.google.android.gm
 * com.google.android.gms.location.history
 * com.google.android.googlequicksearchbox
 * com.google.android.inputmethod.latin - Google Keyboard
@@ -78,9 +76,6 @@ A script for Windows to remove bloatware in ASUS ROG Phone 3.
 * com.google.android.printservice.recommendation
 * com.google.android.projection.gearhead
 * com.google.android.tts
-* com.google.android.youtube - YouTube
-  * **ALTERNATIVE**: [ReVanced](https://revanced.app/)
-  * **ALTERNATIVE**: [My own fork of ReVanced Magisk Module](https://github.com/Houdeeny/revanced-magisk-module)
 * com.google.ar.core
 * com.google.ar.lens
 * com.netflix.partner.activation
